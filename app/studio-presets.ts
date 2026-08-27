@@ -790,7 +790,7 @@ export const ECOSYSTEM_TOOLS = [
     title: "Maths Prompt Studio",
     metric: "589 specialist prompts",
     description: "DPPs, handwritten solutions, papers, worksheets, visual maths and bilingual resources.",
-    url: "https://yosoyun.github.io/math-prompt-studio/",
+    url: "https://indrajeet877.github.io/math-prompt-studio/",
     glyph: "M+",
   },
   {
@@ -804,14 +804,14 @@ export const ECOSYSTEM_TOOLS = [
     title: "JEE Problem Atlas",
     metric: "Chapter-wise problem trails",
     description: "Reliable external practice links across Physics, Chemistry, Mathematics and Biology.",
-    url: "https://yosoyun.github.io/problem-atlas/",
+    url: "https://indrajeet877.github.io/problem-atlas/",
     glyph: "PA",
   },
   {
     title: "HeroSmith",
     metric: "14 visual archetypes",
     description: "Cinematic, 3D and interaction-ready hero prompt architecture for ambitious visual work.",
-    url: "https://yosoyun.github.io/herosmith/",
+    url: "https://indrajeet877.github.io/herosmith/",
     glyph: "HS",
   },
 ];

@@ -5,7 +5,7 @@ three-step flow lets a teacher choose what to make, add five familiar classroom
 details, review the promised files and open the AI they already use. Expert
 instructions and production checks remain backstage.
 
-Live site: https://yosoyun.github.io/teacher-prompt-studio/
+Live site: https://indrajeet877.github.io/teacher-prompt-studio/
 
 Verified flagship sample:
 

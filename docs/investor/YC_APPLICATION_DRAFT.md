@@ -5,7 +5,7 @@ This draft is intentionally conservative. Replace every **[UNKNOWN]** only with 
 ## Company
 
 - **Company name:** Teacher Prompt Studio
-- **Website:** https://yosoyun.github.io/teacher-prompt-studio/
+- **Website:** https://indrajeet877.github.io/teacher-prompt-studio/
 - **Category:** Education / vertical AI workflow software
 - **Location and post-YC location:** **[UNKNOWN — founders to complete]**
 - **Legal entity:** **[UNKNOWN — founders to complete]**

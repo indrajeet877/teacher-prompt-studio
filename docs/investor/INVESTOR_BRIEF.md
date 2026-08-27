@@ -1,7 +1,7 @@
 # Teacher Prompt Studio — Investor Brief
 
 - **Draft status:** evidence-disciplined working brief, not a traction announcement
-- **Product:** [Teacher Prompt Studio](https://yosoyun.github.io/teacher-prompt-studio/)
+- **Product:** [Teacher Prompt Studio](https://indrajeet877.github.io/teacher-prompt-studio/)
 - **Wedge:** Indian secondary and coaching assessment production
 - **Vision:** the provider-agnostic production and verification layer for trusted teaching artifacts
 
